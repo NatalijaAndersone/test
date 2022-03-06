@@ -1,7 +1,7 @@
 package com.example.demo2;
 
-public class maybe {
+public class yeah {
     public static void main(String[] args) {
-        System.out.println("Maybe");
+        System.out.println("fuck yeah");
     }
 }
